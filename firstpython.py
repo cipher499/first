@@ -1,4 +1,3 @@
-for(i=0; i<4; i++)
-  print("x*i");
-  
+for i in range(1,5):
+  print("x"*i);
  
